@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in University of Calcutta, Kolkata, 2019
+* M.S. in St Xavier's College (Autonomous),Kolkata,India, University of Calcutta , 2022
+  
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2023: Summer Research Intern 
+  * University of Rhode Island 
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
